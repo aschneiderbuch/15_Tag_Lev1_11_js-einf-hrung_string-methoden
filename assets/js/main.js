@@ -9,3 +9,5 @@ document.write(z)
 
 let n = x + " " + y 
 console.log(n)
+
+document.write(n)
